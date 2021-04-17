@@ -1,0 +1,12 @@
+md5: d940435d13577001e7ddca983b6cc94c
+frozen: true
+deps:
+- path: data
+  repo:
+    url: https://dagshub.com/nirbarazida/click-ad
+    rev_lock: 8730cc5244d073aeb35193d02bba764ec0473bb0
+outs:
+- md5: b5bd28e12cb3c52618b8bfce73c8aed3.dir
+  size: 435015204
+  nfiles: 3
+  path: data
